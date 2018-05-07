@@ -5,6 +5,7 @@ Instructor: Curtis D'Alves
 
 Session: Winter 2018
 
+This directory is protected under the [MIT License](https://github.com/jessica-dl/COMPSCI-1XA3/blob/master/LICENSE).
 ## Assign1
  - This directory contains ProjectAnalyze.sh and a README.md file describing how it is used.
  - ProjectAnalyze.sh is a script that performs the requirements of the assignment:
@@ -42,13 +43,3 @@ Session: Winter 2018
         ```
      - For more information on usage, see the [README.md](https://github.com/deleeuwj1/CS1XA3/blob/master/Assign3/README.md) in the Assign3 folder.
   - If you would like to view documentation for the library, visit [this site](https://deleeuwj1.github.io/docs/).
-
-## Labs
-  - This directory contains subdirectories for each of the marked labs.
-     - These contain encrypted files with answers for the in-class labs.
-
-## Study Sheet
-  - This directory contains three study sheets, one for each of the topics covered in CS 1XA3
-     - `Bash.md`
-     - `Elm.md`
-     - `Haskell.md`
