@@ -50,4 +50,5 @@ Due on February 26th, 2018.
       - Option for user to view **changes.log**, **todo.log** or **error.log** after running the respective function.
 
 **Information on formatting .md files was found [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings).**
+
 Created by Jessica de Leeuw
