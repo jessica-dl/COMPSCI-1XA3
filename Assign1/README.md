@@ -1,4 +1,4 @@
-# README for Assignment 1
+# Assignment 1: Project Analyzer
 Due on February 26th, 2018.
 
 ## Usage Information
@@ -28,7 +28,7 @@ Due on February 26th, 2018.
       - Information on copying from [here](https://askubuntu.com/questions/835657/copy-file-to-current-directory).
    - replace: as seen in **Replace.sh** in [Akram Elwazani's Project](https://github.com/elwazana/CS1XA3/blob/master/Assign1/Replace.sh).
       - **Used by typing in *7* when menu appears.**
-      - This function is one that I found used when writing my script. The ability to replace a re-occuring pattern with another makes trying to change a large               portion of code a lot less arduous.  
+      - This function is one that I found useful when writing my script. The ability to replace a re-occuring pattern with another makes trying to change a large               portion of code a lot less arduous.  
    - newDir: modified version of **Bonus Feature 2** from [Ali Kariapper's Project](https://github.com/Kariappa/CS1XA3/blob/master/Assign1/ProjectAnalyze.sh)
       - **Used by typing in *8* when menu appears.**
       - This function is one that is useful for people that want to create a new directory with a README.md file, and add it to GitHub, but don't want to do each of          the steps individually. With one command and a couple lines depicting what they want their directory to be called (and if they want to put anything in their          README file) the user is able to do the aforementioned.
@@ -42,11 +42,12 @@ Due on February 26th, 2018.
 
 ## Other Additions:
 
-   - menu: a simple menu was added for ease of use.
-   - colours: colours were added for *slightly* improved readability of outputs.
+   - Menu: a simple menu was added for ease of use.
+   - Colours: colours were added for *slightly* improved readability of outputs.
      - Information on changing the colour of output of echo from [here](https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux). 
    - Features included in functions:
       - Option for the user to see differences in commits between local and remote repos added to **same** function.
       - Option for user to view **changes.log**, **todo.log** or **error.log** after running the respective function.
 
 **Information on formatting .md files was found [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings).**
+Created by Jessica de Leeuw

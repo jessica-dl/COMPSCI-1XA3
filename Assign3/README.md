@@ -74,3 +74,4 @@ See section ExprParser for more detail and for examples.
 ### License
 This project is protected under the MIT License. For more information, see [LICENSE.md](https://github.com/deleeuwj1/CS1XA3/blob/master/Assign3/LICENSE.md).
 
+Created by Jessica de Leeuw
