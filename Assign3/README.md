@@ -54,7 +54,7 @@ See section ExprParser for more detail and for examples.
    - These parse expressions into the `Expr` type.
    - Ex. `"x + (cos(-x) ^ 3)"` becomes: `Add (Var "x") (Pow (Cos (Mult (Const (-1)) (Var "x"))) (Const 3))`
    - Ex. `"ln (y / (4*5)) - exp(32 + z)"` becomes: `Sub (Ln (Div (Var "y") (Mult (Const 4) (Const 5)))) (E (Add (Const 32) (Var "z")))`
-   - Ex. `log24(sin(x+3))` is the same as: `Log 24 (Sin (Add (Var "x") (Const 3))`
+   - Ex. `log24(sin(x+3))` is the same as: `Log 24 (Sin (Add (Var "x") (Const 3)))`
       - Note that the input for the base is attached to the word log. To input log of base 10, it must be written as `log10(x)`.
 
 ### ExprDiff
