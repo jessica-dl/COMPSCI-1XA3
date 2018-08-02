@@ -18,9 +18,9 @@ This directory is protected under the [MIT License](https://github.com/jessica-d
 ## Assign2
   - This directory contains code for a simple game created in ELM.
      - You are a circle in a rectangular world. Try your best to escape!
-     - It was created to demonstrate my knowledge of the ELM architure that was taught in class. 
+     - It was created to demonstrate my knowledge of the ELM architecture that was taught in class. 
   - It also contains the HTML code for my resume.
-     - The README.md file contains a link to my resume. Feel free to check it out. 
+     - [Here](http://ugweb.cas.mcmaster.ca/~deleeuwj/) is a link to my resume. Feel free to check it out. 
      - It is a modified version of an existing template, credits are given in the README.md file.
 
 ## Assign3
